@@ -1,7 +1,7 @@
 # 🧠 Object Feature Learning Overview
 
 <p align="center">
-  <img src="img/figure2.png" width="800">
+  <img src="../img/figure2.png" width="800">
 </p>
 
 Most 3D-SSG pipelines lean heavily on GNN reasoning while treating the object embeddings themselves as “good enough.”

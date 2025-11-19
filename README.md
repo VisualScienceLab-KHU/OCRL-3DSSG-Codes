@@ -15,8 +15,8 @@ Authors: **KunHo Heo***, **GiHyeon Kim***, SuYeon Kim, MyeongAh Cho
 
 
 [\[Arxiv\]](https://arxiv.org/pdf/2510.04714)
-[\[Checkpoint SG Model\]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
-[\[Checkpoint Object Encoder\]](https://drive.google.com/drive/folders/1-p-m6fNOeKhdA4FT66W12evsqDlke7DB?usp=sharing)
+[\[SG Model Checkpoint \]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
+[\[Object Encoder Checkpoint\]](https://drive.google.com/drive/folders/1-p-m6fNOeKhdA4FT66W12evsqDlke7DB?usp=sharing)
 
 ---
 
@@ -79,7 +79,7 @@ We suggests two stage training method: Object Feature Learning & Scene Graph Pre
 
 #### Stage 1) Object Feature Learning
 
-See [Here](https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes/train_obj_encoder) to check OFL document.
+See [Here](https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes/tree/main/train_obj_encoder) to check OFL document.
 
 #### Stage 2) Scene Graph Prediction
 
@@ -108,7 +108,7 @@ If you find our work useful, please cite:
 
 ## ✨ Acknowledgements
 
-This work was supported by the NRF and IITP grants (RS-2024-00456589, RS-2025-02263277, RS-2022-00155911).  
+This work was supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)(RS-2024-00456589) and Institute of Information & communications Technology Planning & Evaluation (IITP) grant funded by the Korea government (MSIT) (No. RS-2025-02263277 and RS-2022-00155911, Artificial Intelligence Convergence Innovation Human Resources Development (Kyung Hee University)).  
 Also, this project is inspired by and partially based on the following repositories:
 
 - [3DSSG](https://github.com/ShunChengWu/3DSSG)
