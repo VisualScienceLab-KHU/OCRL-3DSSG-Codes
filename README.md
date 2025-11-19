@@ -73,8 +73,8 @@ data
 
 We suggests two stage training method: Object Feature Learning & Scene Graph Prediction.
 
-[\[SG Model Ckpt\]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
 [\[Object Encoder Ckpt\]](https://drive.google.com/drive/folders/1-p-m6fNOeKhdA4FT66W12evsqDlke7DB?usp=sharing)
+[\[Scene Generation Model Ckpt\]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
 
 
 #### Stage 1) Object Feature Learning
