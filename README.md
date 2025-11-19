@@ -1,22 +1,19 @@
 # 🌌 Object-Centric Representation Learning for 3D Semantic Scene Graph Prediction (NeurIPS 2025)
-
-<p align="center">
-  <img src="./img/figure1.png" width="800">
-</p>
-
-<p align="center">💡 Core contribution of our work: object representation is key bottleneck of predicate estimation.</p>
-
-## 🧩 Overview
 We propose a two-stage training framework for 3D Semantic Scene Graph Prediction. Our method focuses on learning discriminative object representations to improve predicate reasoning.   
 If you found our insights are usefule, please help to ⭐ it or recommend it to your friends. Thanks!
 
 Authors: **KunHo Heo***, **GiHyeon Kim***, SuYeon Kim, MyeongAh Cho  
 *Equal Contribution
 
-
+[\[Progect Page\]](https://visualsciencelab-khu.github.io/OCRL-3DSSG/)
+[\[Paper\]](https://openreview.net/pdf?id=LjmXrUsSrg)
 [\[Arxiv\]](https://arxiv.org/pdf/2510.04714)
-[\[SG Model Checkpoint \]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
-[\[Object Encoder Checkpoint\]](https://drive.google.com/drive/folders/1-p-m6fNOeKhdA4FT66W12evsqDlke7DB?usp=sharing)
+
+<p align="center">
+  <img src="./img/figure1.png" width="800">
+</p>
+
+<p align="center">💡 Core contribution of our work: object representation is key bottleneck of predicate estimation.</p>
 
 ---
 
@@ -74,7 +71,10 @@ data
 
 ## Training & Evaluation
 
-We suggests two stage training method: Object Feature Learning & Scene Graph Prediction  
+We suggests two stage training method: Object Feature Learning & Scene Graph Prediction.
+
+[\[SG Model Ckpt\]](https://drive.google.com/drive/folders/1UrEbwxPWuaJx_-dCPNRh-0RFTExTOg3C?usp=sharing)
+[\[Object Encoder Ckpt\]](https://drive.google.com/drive/folders/1-p-m6fNOeKhdA4FT66W12evsqDlke7DB?usp=sharing)
 
 
 #### Stage 1) Object Feature Learning
