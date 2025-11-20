@@ -5,7 +5,7 @@ If you found our insights are usefule, please help to ⭐ it or recommend it to 
 Authors: **KunHo Heo***, **GiHyeon Kim***, SuYeon Kim, MyeongAh Cho  
 *Equal Contribution
 
-[\[Progect Page\]](https://visualsciencelab-khu.github.io/OCRL-3DSSG/)
+[\[Project Page\]](https://visualsciencelab-khu.github.io/OCRL-3DSSG/)
 [\[Paper\]](https://openreview.net/pdf?id=LjmXrUsSrg)
 [\[Arxiv\]](https://arxiv.org/pdf/2510.04714)
 
