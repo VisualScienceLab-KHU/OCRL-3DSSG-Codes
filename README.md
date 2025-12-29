@@ -79,9 +79,17 @@ We suggests two stage training method: Object Feature Learning & Scene Graph Pre
 
 #### Stage 1) Object Feature Learning
 
+<p align="center">
+  <img src="./img/figure2.png" width="800">
+</p>
+
 See [Here](https://github.com/VisualScienceLab-KHU/OCRL-3DSSG-Codes/tree/main/train_obj_encoder) to check OFL document.
 
 #### Stage 2) Scene Graph Prediction
+
+<p align="center">
+  <img src="./img/figure4.png" width="800">
+</p>
 
 Training scene graph prediction can be conducted by following script.
 
