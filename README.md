@@ -1,4 +1,4 @@
-# 🌌 Object-Centric Representation Learning for 3D Semantic Scene Graph Prediction (NeurIPS 2025)
+# 🌌 Object-Centric Representation Learning for Enhanced 3D Semantic Scene Graph Prediction (NeurIPS 2025)
 We propose a two-stage training framework for 3D Semantic Scene Graph Prediction. Our method focuses on learning discriminative object representations to improve predicate reasoning.   
 If you found our insights are usefule, please help to ⭐ it or recommend it to your friends. Thanks!
 
