@@ -106,11 +106,13 @@ python -m main --mode eval --config <config_path> --exp <exp_name>
 If you find our work useful, please cite:
 
 ```
-@article{heo2025object,
-  title={Object-Centric Representation Learning for Enhanced 3D Scene Graph Prediction},
+@article{heo2026object,
+  title={Object-centric representation learning for enhanced 3d semantic scene graph prediction},
   author={Heo, KunHo and Kim, GiHyun and Kim, SuYeon and Cho, MyeongAh},
-  journal={arXiv preprint arXiv:2510.04714},
-  year={2025}
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={66654--66685},
+  year={2026}
 }
 ```
 
